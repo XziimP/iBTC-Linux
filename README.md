@@ -1,4 +1,4 @@
-[!image](https://cdn.discordapp.com/attachments/689074851331571814/709231846919110691/ibtc.png)
+![image](https://cdn.discordapp.com/attachments/689074851331571814/709231846919110691/ibtc.png)
 
 
 
